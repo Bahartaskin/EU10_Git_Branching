@@ -1,0 +1,5 @@
+*.iml
+/.idea/
+out
+
+# files started with . (dot) are hidden files
